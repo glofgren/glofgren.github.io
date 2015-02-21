@@ -1,0 +1,36 @@
+url: https://glofgren.github.io
+baseurl:
+
+# Site settings
+title: Garrett Lofgren — Graphic Design
+email: glofgren@gmail.com
+description: "Graphic Design"
+categories: ['featured', 'projects']
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 12, 239, 212, .50
+  secondary: 12, 239, 212, 1
+  secondary-dark: 54, 54, 54
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: http://www.facebook.com/glofgren
+  - title: twitter
+    url: http://twitter.com/glofgren
+  - title: dribbble
+    url: http://dribbble.com/glofgren
+  - title: behance
+    url: http://www.behance.net/glofgren
+  - title: linkedin
+    url: http://www.linkedin.com/in/glofgren
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
